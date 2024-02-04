@@ -27,9 +27,19 @@ This repository contains script designed for extracting Data Definition Language
 - Time Stamp
 - Result (Success/ Failure)
 - Error Message
+- Catalog
+
+
+#### Migration History Table :
+- <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/8b5dd54c-d617-49bf-914e-728deaf709f4">
+- <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/73092d63-1f00-4d16-8075-832690de7108">
+- <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/28c3e283-9f63-4586-bde4-a188e99181a9">
+- <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/d7027e02-deed-4834-9064-2e4abdf6b5fd">
+
 
 <br>
 <br>
+
 
 
 ### DDL Extraction - Different Flows  
