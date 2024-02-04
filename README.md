@@ -114,7 +114,7 @@ Add the file path to the exclusion_list_path widget
 ### Workflow 
 - <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/5a18a371-ea5c-4010-87b5-58731662f645">
 - <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/448e8868-2c52-4072-827d-b96dafc0f356">
-- <img width="1527" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/ac6d8aae-1479-4de1-bd35-cd2c9d5cf3e1">
+- <img width="800" alt="image" src="https://github.com/ApoorvaD13/Teradata-DDL-Extraction/assets/146916128/ac6d8aae-1479-4de1-bd35-cd2c9d5cf3e1">
 
 
 
