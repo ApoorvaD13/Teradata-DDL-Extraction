@@ -1,2 +1,2 @@
 # Teradata-DDL-Extraction
-This repo holds script to extract DDL for different objects (table, view , stored procedure , udfs , macros ) ans stores them in a migration history table . This migration history table data can then be used to convert the teradata ddls into databricks ddl for migration
+This repository contains script designed for extracting Data Definition Language (DDL) statements for various objects such as tables, views, stored procedures, user-defined functions (UDFs), and macros. These DDL statements are stored in a migration history table. The data within this migration history table can subsequently be utilized to convert Teradata DDLs into Databricks DDLs for the migration process.
